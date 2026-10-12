@@ -8,3 +8,4 @@ My devops Learning Practice
 ## Week 2: Git
 -- Created my first repository
 -- Learning version control
+-- Newly adding skill
