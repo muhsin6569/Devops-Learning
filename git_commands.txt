@@ -19,6 +19,8 @@ it will ask for username and password --> if authentication fails we need to get
 
 #Now in github repository we can see the modified changes clearly
 
-#Just rechecking the git pull command
+git status -- to view the status of what are the files that got modified and which is unstaged  -- if staged it will show in green color in terminal
 
-#just a new line
+git diff -- this will show which line was changed or edited or added in the particular file -- with that u can stage that and commit the latest process
+
+git log --oneline -- gives the logs in compact form
