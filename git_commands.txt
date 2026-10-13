@@ -5,3 +5,13 @@ git clone <URL>
 modify any file inside the repository
 git add <file name that need to be staged for next commit>
 git commit -m <File name need to be included for in the commit>
+
+After commiting need to push to github:
+
+git push
+it will ask for username and password --> if authentication fails we need to get Personal access token to connect to remote repository
+
+-- github token setting
+-- give required details
+-- generate the PAT(Personal access token)
+-- now with that token we can perform git push
