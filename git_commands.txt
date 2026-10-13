@@ -1,0 +1,7 @@
+#Practising all the git commands:
+
+git --version
+git clone <URL>
+modify any file inside the repository
+git add <file name that need to be staged for next commit>
+git commit -m <File name need to be included for in the commit>
