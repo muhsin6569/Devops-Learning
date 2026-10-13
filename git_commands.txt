@@ -5,6 +5,7 @@ git clone <URL>
 modify any file inside the repository
 git add <file name that need to be staged for next commit>
 git commit -m <File name need to be included for in the commit>
+git push -- push the changes to github repository
 
 After commiting need to push to github:
 
@@ -17,3 +18,5 @@ it will ask for username and password --> if authentication fails we need to get
 -- now with that token we can perform git push
 
 #Now in github repository we can see the modified changes clearly
+
+#Just rechecking the git pull command
